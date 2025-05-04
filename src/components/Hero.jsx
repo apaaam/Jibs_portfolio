@@ -1,5 +1,5 @@
 import React from 'react';
-import photo from '../assets/images/Photo.jpeg'; // Import the image
+import photo from '../assets/images/Gradpic.jpg'; 
 
 const Hero = () => {
   return (
@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="hero-content">
         <h1 className="hero-title">Welcome to My Portfolio</h1>
         <p className="hero-subtitle">
-          I'm a passionate web developer who loves building amazing projects.
+          I'm a passionate Photographer that loves to capture moments.
         </p>
         <div className="hero-cta">
           <a href="#projects" className="cta-button">
@@ -19,7 +19,7 @@ const Hero = () => {
         </div>
       </div>
       <div className="hero-image">
-        <img src={photo} alt="My Work" /> {/* Use the imported image */}
+        <img src={photo} alt="My Work" /> 
       </div>
     </section>
   );

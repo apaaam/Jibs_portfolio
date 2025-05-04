@@ -6,8 +6,8 @@ export default function Skills() {
         <li>Portrait Photography</li>
             <li>Landscape Photography</li>
             <li>Product Photography</li>
-            <li>Lightroom Editing</li>
-            
+            <li>Photo Editing</li>
+            <li>Photo Color Grading</li>
         </ul>
       </section>
     );

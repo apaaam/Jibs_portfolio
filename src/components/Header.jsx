@@ -34,6 +34,14 @@ const Header = () => {
           >
             IG
           </a>
+          <a
+            href="https://jibs-certificate-e7afb1.webflow.io/" 
+            target="_blank"
+            rel="noopener noreferrer"
+            className="nav-link"
+          >
+            Certs
+          </a>
         </div>
       </nav>
     </header>
